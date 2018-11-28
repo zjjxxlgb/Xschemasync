@@ -39,4 +39,6 @@ Options:  <Br/>
                         table;2:ignore drop column;3:ignore drop table and  <Br/>
                         column;100:only drop table and column  <Br/>
     <Br/>
+    mode为3时过滤drop table 和drop column  <Br/>
+   mode为100时只产生drop table 和drop column  <Br/>
   ![Image text](https://github.com/zjjxxlgb/Xschemasync/blob/master/sycsql2.png)  <Br/>

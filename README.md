@@ -39,4 +39,4 @@ Options:
                         table;2:ignore drop column;3:ignore drop table and
                         column;100:only drop table and column
   
-  ![Image text](syncsql.png)
+  ![Image text](https://github.com/zjjxxlgb/Xschemasync/blob/master/sycsql.png)

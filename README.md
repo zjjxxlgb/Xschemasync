@@ -1,4 +1,5 @@
-# 增强schemasync，1、支持中文注释，2、支持过滤表，3、支持过滤特定DDL
+# 增强schemasync，
+1、支持中文注释，2、支持过滤表，3、支持过滤特定DDL
 
 yum install python-devel -y
 pip install mysql-python pymysql schemaobject schemasync
